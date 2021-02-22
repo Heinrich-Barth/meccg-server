@@ -17,9 +17,9 @@ $ npm start
 
 Your app should now be running on [localhost:8080](http://localhost:8080/).
 
-### Security
+## Security
 
-There is no login mechanism implemented, yet.
+There is no security mechanism implemented! Use at your own risk.
 
 ## Third Party Libraries
 
